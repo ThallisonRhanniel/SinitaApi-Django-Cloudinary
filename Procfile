@@ -1,0 +1,1 @@
+web: gunicorn MyDjangoApi.wsgi --log-file -
